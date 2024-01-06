@@ -16,7 +16,7 @@ You man gain more information about this Game throught here:
 2. Video : Not Yet Added
 
 ### How to Start
-After downloading everything here, just hit the run button and start playing. If the game closes after losing or winning, it is fine because it is built-in the game. If you want to change it, you may check the report. The game will look like this:
+After downloading everything here, just hit the run button and start playing. If the game closes after losing or winning, it is fine because it is built-in the game. If you want to change it, you may check the report.
 
-![gamescreenshot](file:///Users/jasonhardjawidjaja/Desktop/Rport%20screenshot/gamescreenshot.png)
 
+I aplogize in advance for the making of this decent and small game, I am still learning and may make a better project in the future.
