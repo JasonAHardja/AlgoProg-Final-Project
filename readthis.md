@@ -5,6 +5,7 @@ The Final Project is a Game made using Python.
 - [Information](#information)
 - [More Information](#more-information)
 - [How to Start](#results)
+- [Controls](#controls)
 
 
 ### Information 
@@ -18,10 +19,10 @@ You man gain more information about this Game throught here:
 ### How to Start
 After downloading everything here, just hit the run button and start playing. If the game closes after losing or winning, it is fine because it is built-in the game. If you want to change it, you may check the report.
 
-Controls: 
-SPACE = Jump
-ENTER = Punch
-ARROW KEYS (LEFT AND RIGHT) = Movement to go left and right
+### Controls: 
+a. SPACE = Jump
+b. ENTER = Punch
+c. ARROW KEYS (LEFT AND RIGHT) = Movement to go left and right
 
 
 
